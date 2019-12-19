@@ -1,0 +1,5 @@
+name = input("Enter Name here: ")
+if name == "Adam":
+    print(name, "is shit at organising")
+else:
+    print(name, "is sick at organising")
