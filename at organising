@@ -1,5 +1,5 @@
-name = input("Enter Name here: ")
-if name == "Adam":
-    print(name, "is shit at organising")
+Love = input("Who does didums love?")
+if Love == "didums":
+    print("Didums loves", Love)
 else:
-    print(name, "is sick at organising")
+    print("Incorrect")
